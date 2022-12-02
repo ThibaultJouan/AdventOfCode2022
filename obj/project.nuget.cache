@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LbC+V7DKl8YniA8oHrNSaJAV7PlS9k/sMER3jpw0KonvlRlaCVvj1DT1cOlmRWYi/xSSUIpctS+RyxlZSnbIQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ThibaultJOUAN\\RiderProjects\\AOC\\AOC\\AOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThibaultJOUAN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\ThibaultJOUAN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\ThibaultJOUAN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\ThibaultJOUAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
