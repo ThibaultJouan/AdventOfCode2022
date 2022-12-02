@@ -8,11 +8,11 @@ public class Jour2
     private const string Me = "XYZ";
     private readonly int[,] _table = {
         {
-            3,6,0
+            4,8,3
         }, {
-            0,3,6
+            1,5,9
         }, {
-            6,0,3
+            7,2,6
         }
     };
     
@@ -33,7 +33,7 @@ public class Jour2
 
     public int Resolve1()
     {
-        return Inputs.Sum(l => _table[Opponent.IndexOf(l[0]), Me.IndexOf(l[2])] + (Me.IndexOf(l[2]) + 1));
+        return Inputs.Sum(l => _table[Opponent.IndexOf(l[0]), Me.IndexOf(l[2])]);
     }
 
     public int Resolve2()
