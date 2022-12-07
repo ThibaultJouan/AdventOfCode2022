@@ -2,7 +2,7 @@ namespace AOC;
 
 public class Jour1
 {
-    public List<string> Inputs { get; }
+    private List<string> Inputs { get; }
     
     public Jour1(List<string> inputs)
     {

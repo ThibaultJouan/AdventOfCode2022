@@ -2,13 +2,16 @@
 
 using AOC;
 
-var inputs = FileInterraction.ReadWholeContent("C:\\Users\\ThibaultJOUAN\\OneDrive - QuartzX\\Bureau\\AOC\\jour2.txt").ToList();
+var inputs = FileInterraction.ReadWholeContent("C:\\Users\\ThibaultJOUAN\\OneDrive - QuartzX\\Bureau\\AOC\\jour5.txt").ToList();
 
 Jour1 j1 = new Jour1(inputs);
 Jour2 j2 = new Jour2(inputs);
+Jour3 j3 = new Jour3(inputs);
+Jour4 j4 = new Jour4(inputs);
+Jour5 j5 = new Jour5(inputs);
 
-var result1 = j2.Resolve1();
-var result2 = j2.Resolve2();
+var result1 = j5.Resolve1();
+var result2 = j5.Resolve2();
 
 
 Console.WriteLine(result1);

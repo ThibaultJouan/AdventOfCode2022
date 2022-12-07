@@ -2,7 +2,7 @@ namespace AOC;
 
 public class Jour2
 {
-    public List<string> Inputs { get; }
+    private List<string> Inputs { get; }
 
     private const string Opponent = "ABC";
     private const string Me = "XYZ";
